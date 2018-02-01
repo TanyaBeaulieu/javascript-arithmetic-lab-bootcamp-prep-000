@@ -1,3 +1,3 @@
-makeInt(n){
-  
+function makeInt(n){
+  parseInt(n)
 }
